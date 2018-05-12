@@ -1,0 +1,51 @@
+_repo: Somewhere-in-Red-Gap_14376
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Raleigh, Henry
+    birthdate: 1880
+    deathdate: 1945
+    gutenberg_agent_id: '34545'
+    url: http://www.gutenberg.org/2009/agents/34545
+  - agent_name: Gruger, Frederic Rodrigo
+    aliases:
+    - Gruger, Frederic R. (Frederic Rodrigo)
+    - Gruger, F. R. (Frederic Rodrigo)
+    birthdate: 1871
+    deathdate: 1953
+    gutenberg_agent_id: '31201'
+    url: http://www.gutenberg.org/2009/agents/31201
+  - agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Harry Leon
+    birthdate: 1867
+    deathdate: 1939
+    gutenberg_agent_id: '1206'
+    url: http://www.gutenberg.org/2009/agents/1206
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Leon_Wilson
+description: ''
+gutenberg_issued: '2004-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington (State) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Humorous stories'
+title: Somewhere in Red Gap
+url: http://www.gutenberg.org/ebooks/14376
